@@ -1,0 +1,13 @@
+.text {
+  color: #667080;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1px;
+  font-family: Lato, Arial;
+  font-size: .875rem;
+  font-weight: 500;
+  line-height: 17px;
+  display: flex; 
+  
+}

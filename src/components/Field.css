@@ -1,0 +1,28 @@
+.field {
+  color: #a2a3ac;
+  background-color: #f8f8f8;
+  border: 1px solid #dfe1e3;
+  border-radius: 8px;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 2px;
+  padding-left: 17px;
+  padding-right: 20px;
+  font-family: Lato, Arial;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 24px;
+  display: flex;
+}
+
+.select {
+  margin-top: 1px;
+}
+
+.vector-1 {
+  width: 11px;
+  height: 7px;
+  object-fit: cover;
+  margin-bottom: 1px;
+}

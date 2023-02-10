@@ -1,0 +1,40 @@
+.menu-elemnt-1 {
+  color: #9aa8b8;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: Gotham Rounded, Arial;
+  font-size: 1.125rem;
+  font-weight: 350;
+  line-height: 22px;
+  display: flex; 
+  
+}
+
+.rectangle-17016 {
+  height: 100%;
+  background-color: #3b849c00;
+  border-radius: 10px;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+ 
+}
+
+.menu-icons-4 {
+  width: 18px;
+  height: 22px;
+  object-fit: cover;
+  
+}
+
+.material-symbolsadd-3 {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  margin-left: 20px;
+  
+  
+}

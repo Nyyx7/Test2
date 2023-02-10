@@ -1,0 +1,74 @@
+.component-13 {
+  color: #2c2c2c;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  padding-bottom: 1px;
+  font-family: Gotham Rounded, Arial;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 64px;
+  display: flex; 
+  width: 1552px;
+  height: 64px;
+  left: 313px;
+  top: 34px;
+  
+
+
+}
+
+.malls {
+  margin-bottom: 3px;
+  font-size: 3.313rem;
+  margin-left: 13px; 
+  padding-right: 50%;
+  
+}
+
+.minotification {
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  margin-left: 360px;
+}
+
+.ellipse-1100 {
+  width: 43px;
+  height: 43px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  margin-left: 12px;
+}
+
+.flex-container-25 {
+  color: #838491;
+  height: 50%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-top: 3px;
+  margin-left: 10px;
+  line-height: 17px;
+  display: flex;
+}
+
+.manal-rachidi {
+  color: #000;
+  line-height: 19px;
+}
+
+.manager {
+  margin-bottom: -1px;
+  font-family: Lato, Arial;
+  font-size: .875rem;
+  font-weight: 600;
+}
+
+.material-symbolskeyb {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  margin-left: 13px;
+}
